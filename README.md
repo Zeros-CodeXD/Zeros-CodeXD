@@ -11,7 +11,7 @@ I build privacy-focused AI tools and financial software.
 | :--- | :--- |
 | **The Financial Terminal** | **The Local AI Assistant** |
 | A Bloomberg-style market dashboard running on local LLMs. No API costs. | A voice-activated AI assistant that works offline using Ollama & Piper. |
-| [View Code & Demo](LINK_TO_APEX_REPO) | [View Code & Demo](LINK_TO_CYAN_REPO) |
+| [View Code & Demo](https://github.com/209567/Apex-Titan-AI.git) | [View Code & Demo](LINK_TO_CYAN_REPO) |
 
 ---
 
