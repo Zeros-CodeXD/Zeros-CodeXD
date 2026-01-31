@@ -45,23 +45,18 @@ I am a student developer focused on **Privacy-First AI** and **Financial Tools**
 
 ---
 
-### 📊 Coding Activity
+### 📊 GitHub Stats
 <div align="center">
-  <!-- 1. The Streak Counter (Uses Demolab Server - Very Stable) -->
-  <img src="https://streak-stats.demolab.com?user=Zeros-CodeXD&theme=dark&hide_border=true&background=202020&ring=60CDFF&fire=00CC6A&currStreakLabel=60CDFF" alt="streak graph" />
+  <!-- Provider 1: Streak Stats (Hosted on DemoLab - Very Stable) -->
+  <img src="https://streak-stats.demolab.com?user=Zeros-CodeXD&theme=dark&hide_border=true&background=202020&ring=60CDFF&fire=00CC6A&currStreakLabel=60CDFF" height="180" alt="streak graph" />
   
-  <br/>
-
-  <!-- 2. The Activity Wave (Uses Heroku Server - Won't crash like Vercel) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Zeros-CodeXD&bg_color=202020&color=60CDFF&line=00CC6A&point=FFFFFF&hide_border=true" width="100%" alt="activity graph" />
-</div>
-
-### 🏆 Achievements
-<div align="center">
-  <!-- 3. Trophies (Uses a different Vercel instance that is usually still up) -->
+  <br>
+  
+  <!-- Provider 2: Trophy Case (Hosted on Heroku - Different Server) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zeros-CodeXD&theme=darkhub&no-frame=true&margin-w=4&row=1" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Zeros-CodeXD&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophy case" />
   </a>
 </div>
+
 ### 📬 Contact Me
 *   **For Projects/Freelance:** [ayancvko@gmail.com]
