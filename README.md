@@ -51,12 +51,6 @@ I am a student developer focused on **Privacy-First AI** and **Financial Tools**
   <img src="https://streak-stats.demolab.com?user=Zeros-CodeXD&theme=dark&hide_border=true&background=202020&ring=60CDFF&fire=00CC6A&currStreakLabel=60CDFF" height="180" alt="streak graph" />
   
   <br>
-  
-  <!-- Provider 2: Trophy Case (Hosted on Heroku - Different Server) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zeros-CodeXD&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophy case" />
-  </a>
-</div>
 
 ### 📬 Contact Me
 *   **For Projects/Freelance:** [ayancvko@gmail.com]
