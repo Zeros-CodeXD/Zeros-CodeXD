@@ -46,10 +46,10 @@ I am a student developer focused on **Privacy-First AI** and **Financial Tools**
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeros-CodeXD&show_icons=true&theme=dark&hide_border=true&bg_color=202020&title_color=60CDFF&icon_color=00CC6A" height="160" alt="stats graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeros-CodeXD&show_icons=true&theme=dark&hide_border=true&bg_color=202020&title_color=60CDFF&icon_color=00CC6A&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeros-CodeXD&layout=compact&theme=dark&hide_border=true&bg_color=202020&title_color=60CDFF" height="160" alt="languages graph" />
-</div>
+</p>
 
 ### 📬 Contact Me
 *   **For Projects/Freelance:** [ayancvko@gmail.com]
