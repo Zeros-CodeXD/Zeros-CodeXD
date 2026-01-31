@@ -45,19 +45,23 @@ I am a student developer focused on **Privacy-First AI** and **Financial Tools**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Coding Activity
 <div align="center">
-  <!-- Main Stats (Using Backup Server) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zeros-CodeXD&show_icons=true&theme=dark&hide_border=true&bg_color=202020&title_color=60CDFF&icon_color=00CC6A&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  
-  <!-- Languages (Using Backup Server) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zeros-CodeXD&layout=compact&theme=dark&hide_border=true&bg_color=202020&title_color=60CDFF" height="160" alt="languages graph" />
-</div>
-
-<!-- 🔥 Add this Streak Counter (Hosted on a different server, so it works!) -->
-<div align="center">
+  <!-- 1. The Streak Counter (Uses Demolab Server - Very Stable) -->
   <img src="https://streak-stats.demolab.com?user=Zeros-CodeXD&theme=dark&hide_border=true&background=202020&ring=60CDFF&fire=00CC6A&currStreakLabel=60CDFF" alt="streak graph" />
+  
+  <br/>
+
+  <!-- 2. The Activity Wave (Uses Heroku Server - Won't crash like Vercel) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Zeros-CodeXD&bg_color=202020&color=60CDFF&line=00CC6A&point=FFFFFF&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
+### 🏆 Achievements
+<div align="center">
+  <!-- 3. Trophies (Uses a different Vercel instance that is usually still up) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Zeros-CodeXD&theme=darkhub&no-frame=true&margin-w=4&row=1" alt="trophies" />
+  </a>
+</div>
 ### 📬 Contact Me
 *   **For Projects/Freelance:** [ayancvko@gmail.com]
