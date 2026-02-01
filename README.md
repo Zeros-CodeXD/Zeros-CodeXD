@@ -48,7 +48,7 @@ I am a student developer focused on **Privacy-First AI** and **Financial Tools**
 ### 📊 GitHub Stats
 <div align="center">
   <!-- Provider 1: Streak Stats (Hosted on DemoLab - Very Stable) -->
-  <img src="https://streak-stats.demolab.com?user=Zeros-CodeXD&theme=dark&hide_border=true&background=202020&ring=60CDFF&fire=00CC6A&currStreakLabel=60CDFF" height="180" alt="streak graph" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Zeros-CodeXD?cardType=github&theme=github&fontFamily=ADLaM%20Display&preferLogin=false" />
   
   <br>
 
