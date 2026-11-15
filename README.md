@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CC6A,100:60CDFF&height=200&section=header&text=Zeros-CodeXD&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  ### ⚡ 15 y/o Full-Stack Developer | Local AI Enthusiast | Builder 🇮🇳
+  ### ⚡ 16 y/o Full-Stack Developer | Local AI Enthusiast | Builder 🇮🇳
   
   <p align="center">
     <a href="https://github.com/Zeros-CodeXD/Apex-Titan-AI">
